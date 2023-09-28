@@ -1,5 +1,5 @@
 google_api_python_client==2.89.0
-google-api-core==2.11.1
+google-api-core==2.12.0
 google-cloud-secret-manager==2.16.3
 google_crc32c==1.5.0
 oauth2client==4.1.3
