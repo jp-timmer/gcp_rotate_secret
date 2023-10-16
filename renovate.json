@@ -7,7 +7,7 @@
   "prHourlyLimit": 2,
   "rebaseWhen": "behind-base-branch",
   "pip_requirements": {
-    "minimumReleaseAge": "3 days"
+    "minimumReleaseAge": "5 days"
   },
   "packageRules": [
     {
