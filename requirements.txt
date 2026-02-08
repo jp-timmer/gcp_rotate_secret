@@ -1,4 +1,4 @@
-google_api_python_client==2.188.0
+google_api_python_client==2.189.0
 google-api-core==2.29.0
 google-cloud-secret-manager==2.26.0
 google_crc32c==1.8.0
